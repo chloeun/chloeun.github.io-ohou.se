@@ -1,7 +1,7 @@
 # 오늘의 집 사이트 클론 코딩 
 
 **[실제 사이트](https://ohou.se/)
-[제작한 사이트](https://chloeun.github.io/)**
+[제작한 사이트](https://chloeun.github.io-ohou.se/)**
 
 
 "오늘의 집" 사이트를 클론하여 구현한 웹 페이지입니다. 
